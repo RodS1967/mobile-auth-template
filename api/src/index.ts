@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import express from "express";
 import cors from "cors";
 import type { RowDataPacket } from "mysql2";

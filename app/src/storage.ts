@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import * as SecureStore from "expo-secure-store";
 
 // SecureStore uses the device's own encrypted storage (iOS Keychain, Android Keystore) --

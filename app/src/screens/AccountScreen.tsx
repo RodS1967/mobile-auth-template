@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import { Pressable, StyleSheet, Text, View } from "react-native";
 import { SessionUser } from "../storage";
 

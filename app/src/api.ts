@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 // For local dev with a physical phone/emulator, this needs to be your dev machine's LAN
 // IP (e.g. "http://192.168.1.x:3000"), not "localhost" -- the device is a separate machine
 // on the network, not the one running the API. Swap this for the real deployed API domain

@@ -1,3 +1,5 @@
+-- Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
+--
 -- Mobile Auth Template — Database Schema
 -- Dialect: MariaDB (also runs on MySQL 8+).
 --

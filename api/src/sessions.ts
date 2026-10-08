@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import crypto from "crypto";
 import type { Request, Response, NextFunction } from "express";
 import type { RowDataPacket } from "mysql2";

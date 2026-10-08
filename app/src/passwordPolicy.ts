@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 // Mirrors the server's policy (api/src/auth.ts) -- this is a live UX nudge only, duplicated
 // here the same way the server's own hosted reset-password page duplicates it into inline
 // JS (api/src/authPages.ts). The real enforcement is the server's validatePasswordStrength;

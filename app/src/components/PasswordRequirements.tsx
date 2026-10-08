@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import { StyleSheet, Text, View } from "react-native";
 import { PASSWORD_MIN_LENGTH, PasswordChecks } from "../passwordPolicy";
 

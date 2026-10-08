@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import { PASSWORD_MIN_LENGTH, COMMON_WEAK_PASSWORDS } from "./auth";
 import { config } from "./config";
 

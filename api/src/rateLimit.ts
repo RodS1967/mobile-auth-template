@@ -1,3 +1,4 @@
+// Part of mobile-auth-template (MIT) — github.com/RodS1967/mobile-auth-template - Team RodZilla LLC
 import { Request, Response, NextFunction } from "express";
 
 // A simple in-memory sliding-window-ish limiter: fine for a single dev-server process, but
