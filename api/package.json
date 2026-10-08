@@ -1,0 +1,32 @@
+{
+  "name": "mobile-auth-template-api",
+  "version": "1.0.0",
+  "description": "Account/auth backend API for mobile apps (Node 22 + TypeScript + Express + MariaDB)",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["auth", "authentication", "expo", "react-native", "express", "template"],
+  "author": "Team RodZilla LLC",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.24.5",
+    "nodemailer": "^10.0.16"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.4",
+    "@types/nodemailer": "^8.0.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

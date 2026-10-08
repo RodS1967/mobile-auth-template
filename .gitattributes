@@ -1,0 +1,4 @@
+# Normalize line endings: text files are stored in git as LF, checked out using
+# whatever's native to the OS (CRLF on Windows). Stops the "LF will be replaced by
+# CRLF" warnings seen throughout today's commits.
+* text=auto
